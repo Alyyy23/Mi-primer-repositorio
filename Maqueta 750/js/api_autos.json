@@ -1,0 +1,62 @@
+[
+    {
+      "precio": "2,873,100",
+      "id": 1,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/1.jpg"
+    },
+    {
+      "precio": "2,258,000",
+      "id": 2,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/2.jpg"
+    },
+    {
+      "precio": "100,000",
+      "id": 3,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/3.png"
+    },
+    {
+      "precio": "545,000.00",
+      "id": 4,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/4.jpg"
+    },
+    {
+      "precio": "700,000.00",
+      "id": 5,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/5.jpg"
+    },
+    {
+      "precio": "190,408,7",
+      "id": 6,
+      "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/6.jpg"
+    },
+    {
+        "precio": "2,000.00",
+        "id": 7,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/7.jpg"
+      },
+      {
+        "precio": "207,771,62",
+        "id": 8,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/8.jpg"
+      },
+      {
+        "precio": "1,560,256",
+        "id": 9,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/9.png"
+      }, 
+      {
+        "precio": "207,716,2",
+        "id": 10,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/10.png"
+      },
+      {
+        "precio": "1,504,768",
+        "id": 11,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/11.jpg"
+      },
+      {
+        "precio": "200,000",
+        "id": 12,
+        "thumbnailUrl": "https://piny-wash.000webhostapp.com/Ashley/12.jpg"
+      }   
+  ]
